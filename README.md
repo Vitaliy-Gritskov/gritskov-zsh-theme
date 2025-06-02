@@ -1,0 +1,1 @@
+# gritskov-zsh-theme
